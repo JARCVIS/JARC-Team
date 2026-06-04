@@ -31,9 +31,13 @@ This repository includes the project's engineering materials, such as source cod
 Team **JARC** presents this project as an innovative proposal that explores the potential of autonomous robotics to address challenges related to smart mobility, automation, and the development of technological solutions for the future.
 
 Este repositorio documenta el desarrollo del proyecto del **equipo JARC** para la competencia WRO Futuros innovadores 2026. Nuestro proyecto consiste en el diseño, construcción y programación de un vehículo autónomo capaz de desplazarse de manera inteligente mediante el uso de sensores, visión artificial **Arduino Niclas** y sistemas de control basados en **Arduino R4 y Arduino Nano**.
+
 El objetivo principal del proyecto es demostrar la aplicación de tecnologías de automatización, robótica e inteligencia artificial para la navegación autónoma en entornos controlados. El vehículo ha sido desarrollado para detectar obstáculos, tomar decisiones en tiempo real y seguir una ruta de manera segura y eficiente.
+
 Para lograrlo, el sistema integra componentes de hardware como motores, sensores ultrasónicos, una cámara de visión artificial y sistemas electrónicos de control, junto con software desarrollado específicamente para procesar la información del entorno y ejecutar las acciones necesarias para la conducción autónoma.
+
 En este repositorio se incluyen los materiales de ingeniería del proyecto, tales como el código fuente, diagramas de conexión, modelos de diseño, fotografías, videos demostrativos y documentación técnica que describen el funcionamiento y la construcción del vehículo.
+
 El equipo JARC, conformado por Paola Santana y Diego Batista, presenta este trabajo como una propuesta innovadora que busca explorar el potencial de la robótica autónoma para resolver desafíos reales relacionados con la movilidad inteligente y la automatización.
 
 
